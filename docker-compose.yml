@@ -1,5 +1,5 @@
 registry:
-  image: registry:2.4.0
+  image: registry:2.6.1
   ports:
     - 5000:5000
   environment:
